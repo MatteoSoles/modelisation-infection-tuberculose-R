@@ -6,8 +6,8 @@ La modélisation se fait sur 3 populations:
 - la population vaccinée: système immunitaire entraîné.
 - la population fragile: atteint d'immunodéficience
 
-![le projet complet est disponible ici](https://matteosoles.github.io/modelisation-infection-tuberculose-R/)
-)
+**[le projet complet est disponible ici](https://matteosoles.github.io/modelisation-infection-tuberculose-R/)
+
 
 
 
