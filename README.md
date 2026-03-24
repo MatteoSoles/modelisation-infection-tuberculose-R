@@ -6,7 +6,7 @@ La modélisation se fait sur 3 populations:
 - la population vaccinée: système immunitaire entraîné.
 - la population fragile: atteint d'immunodéficience
 
-**[le projet complet est disponible ici](https://matteosoles.github.io/modelisation-infection-tuberculose-R/)
+👉**[le projet complet est disponible ici](https://matteosoles.github.io/modelisation-infection-tuberculose-R/)
 
 
 
@@ -18,3 +18,9 @@ exemple:
 
 ![Aperçu modélisation sous R](graphiquepresentationnormal.png)
 
+Les outils utilisés dans le cadre de ce projet sont:
+
+- langage R (Rstudio)
+- Rmarkdown
+- Bibliothèque: ggplot2
+- GitHub Pages
