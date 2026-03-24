@@ -6,7 +6,10 @@ La modélisation se fait sur 3 populations:
 - la population vaccinée: système immunitaire entraîné.
 - la population fragile: atteint d'immunodéficience
 
-**[le projet est disponible ici](index.html)
+![le projet est disponible ici](index.html)
+
+
+
 <br>
 Pour modéliser cette interaction, des graphiques sont créés grâce à R: <br>
 
