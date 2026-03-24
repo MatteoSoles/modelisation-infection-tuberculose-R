@@ -9,5 +9,5 @@ La modélisation se fait sur 3 populations:
 Pour modéliser cette intéraction, des graphiques sont créés grâce à R:
 exemple: 
 
-![Aperçu modélisation sous R](graphique croissance mt + indice inflammatoire - population normale.png)
+![Aperçu modélisation sous R](graphiquepresentationnormal.png)
 
